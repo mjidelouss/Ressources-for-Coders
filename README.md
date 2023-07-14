@@ -1,7 +1,7 @@
 <h1>Ultimate Coding Resources List</h1>
 <p>A collection of the best resources for programming, web development, computer science and more.</p>
 
-
+![computer](https://github.com/mjidelouss/Ressources-for-Coders/edit/main/computer-science.png)
 
 <hr>
 
